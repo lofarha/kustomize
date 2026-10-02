@@ -20,4 +20,4 @@ patches:
       name: clinic-deploy
       
   # Type 2 : Strategic Merge Patch (patch-routing.yaml) - YAML classique, fusionne avec original
-  - path: patch-routing.yaml
+  - path: patch_routing.yaml
